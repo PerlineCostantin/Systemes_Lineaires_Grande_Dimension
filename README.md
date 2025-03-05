@@ -1,1 +1,1 @@
-# Syst-mes_Lin-aires_Grande_Dimension
+# Systèmes_Linéaires_Grande_Dimension
